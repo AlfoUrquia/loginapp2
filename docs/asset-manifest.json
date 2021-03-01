@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f685099c.chunk.css",
+    "main.js": "/static/js/main.c7f28780.chunk.js",
+    "main.js.map": "/static/js/main.c7f28780.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b0b13e10.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b0b13e10.js.map",
+    "static/js/2.fa124d85.chunk.js": "/static/js/2.fa124d85.chunk.js",
+    "static/js/2.fa124d85.chunk.js.map": "/static/js/2.fa124d85.chunk.js.map",
+    "static/js/3.e8bcc28f.chunk.js": "/static/js/3.e8bcc28f.chunk.js",
+    "static/js/3.e8bcc28f.chunk.js.map": "/static/js/3.e8bcc28f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f685099c.chunk.css.map": "/static/css/main.f685099c.chunk.css.map",
+    "static/js/2.fa124d85.chunk.js.LICENSE.txt": "/static/js/2.fa124d85.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/sincerely-media-gPnHi8AmO5k-unsplash.232ad513.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0b13e10.js",
+    "static/js/2.fa124d85.chunk.js",
+    "static/css/main.f685099c.chunk.css",
+    "static/js/main.c7f28780.chunk.js"
+  ]
+}

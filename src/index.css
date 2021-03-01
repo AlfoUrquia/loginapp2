@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logbutton{
+  @apply bg-red-400 text-white rounded my-6 py-3;
+}
+
+.container-login{
+  @apply justify-center items-center flex h-full;
+}
+
+.bg{
+  background-image: url('sincerely-media-gPnHi8AmO5k-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg{
+    @apply h-screen w-screen;
+}
